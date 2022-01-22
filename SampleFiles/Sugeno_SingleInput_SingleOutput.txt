@@ -1,0 +1,94 @@
+Model:Sugeno
+UseAverage:1
+NumberOfInputUnivers:1
+Name:x
+LowerBound:-10
+UpperBound:10
+Resolution:1000
+NumberOfFSs:4
+FSTypeName:R09622009TEChangAss06.ZFuzzySet
+Name:small
+HashCode:41429416
+NumberOfParameters:2
+ParValue:-6
+ParValue:-3
+ShowMF:True
+FSTypeName:R09622009TEChangAss06.BellFuzzySet
+Name:medium
+HashCode:13213278
+NumberOfParameters:3
+ParValue:4.5
+ParValue:5
+ParValue:0
+ShowMF:True
+FSTypeName:R09622009TEChangAss06.SFuzzySet
+Name:large
+HashCode:23240469
+NumberOfParameters:2
+ParValue:3
+ParValue:6
+ShowMF:True
+FSTypeName:R09622009TEChangAss06.SingletonFuzzySet
+Name:Singleton1
+HashCode:17324607
+NumberOfParameters:1
+ParValue:1
+ShowMF:True
+Name:y
+LowerBound:-5
+UpperBound:5
+Resolution:1000
+NumberOfEqns:3
+EquationID1:0
+EquationName1:(0) Y =  0.1 * X + 6.4 
+EquationID2:1
+EquationName2:(1) Y = -0.5 * X + 4
+EquationID3:2
+EquationName3:(2) Y =  X - 2
+NumberOfRules:3
+NumberOfAntecedents:1
+AntecedentFSCode:41429416
+EquationID:0
+NumberOfAntecedents:1
+AntecedentFSCode:13213278
+EquationID:1
+NumberOfAntecedents:1
+AntecedentFSCode:23240469
+EquationID:2
+NumberOfAntecedents:1
+conditionFSCode:17324607
+Button Enability
+btnCreateAUniverse:False
+btnReset:True
+btnAddFS:False
+btn_unary_op:False
+btn_binary_op:False
+btn_clear_lb:False
+btn_clear_lb:True
+btnAddRule:True
+btnDeleteRule:True
+btnInference:True
+btn_final_inferencing:True
+Button Visibility
+btn_final_inferencing:True
+Combo Box Enability
+cb_FS:False
+cb_FS_monotonic:False
+cb_unaryOperator:False
+cb_binaryOperator:False
+Combo Box Visibility
+cb_FS:True
+cb_FS_monotonic:False
+List Box Enability
+lsbEuqations:True
+Group Box Visibility
+gb_Mamdani:False
+gb_ST:True
+TeeChart Visibility
+LineChart:True
+SurfaceChart:False
+LineChart.Chart.Legend:False
+SurfaceChart.Chart.Legend:False
+chartController1:False
+chartController2:True
+splitContainer3:450

@@ -1,0 +1,121 @@
+Model:Sugeno
+UseAverage:0
+NumberOfInputUnivers:2
+Name:x
+LowerBound:-5
+UpperBound:5
+Resolution:1000
+NumberOfFSs:3
+FSTypeName:R09622009TEChangAss06.ZFuzzySet
+Name:Small
+HashCode:37320431
+NumberOfParameters:2
+ParValue:-2
+ParValue:2
+ShowMF:True
+FSTypeName:R09622009TEChangAss06.SFuzzySet
+Name:Large
+HashCode:51810644
+NumberOfParameters:2
+ParValue:-2
+ParValue:2
+ShowMF:True
+FSTypeName:R09622009TEChangAss06.SingletonFuzzySet
+Name:Singleton1
+HashCode:30868550
+NumberOfParameters:1
+ParValue:3
+ShowMF:True
+Name:y
+LowerBound:-5
+UpperBound:5
+Resolution:1000
+NumberOfFSs:3
+FSTypeName:R09622009TEChangAss06.ZFuzzySet
+Name:small
+HashCode:23240469
+NumberOfParameters:2
+ParValue:-5
+ParValue:5
+ShowMF:True
+FSTypeName:R09622009TEChangAss06.SFuzzySet
+Name:large
+HashCode:7837633
+NumberOfParameters:2
+ParValue:-5
+ParValue:5
+ShowMF:True
+FSTypeName:R09622009TEChangAss06.SingletonFuzzySet
+Name:Singleton2
+HashCode:21703739
+NumberOfParameters:1
+ParValue:3
+ShowMF:True
+Name:z
+LowerBound:-5
+UpperBound:5
+Resolution:1000
+NumberOfEqns:4
+EquationID1:3
+EquationName1:(3) Z = -X + Y + 1
+EquationID2:4
+EquationName2:(4) Z = -Y + 3
+EquationID3:5
+EquationName3:(5) Z = -X + 3
+EquationID4:6
+EquationName4:(6) Z = X + Y + 2
+NumberOfRules:4
+NumberOfAntecedents:2
+AntecedentFSCode:37320431
+AntecedentFSCode:23240469
+EquationID:3
+NumberOfAntecedents:2
+AntecedentFSCode:37320431
+AntecedentFSCode:7837633
+EquationID:4
+NumberOfAntecedents:2
+AntecedentFSCode:51810644
+AntecedentFSCode:23240469
+EquationID:5
+NumberOfAntecedents:2
+AntecedentFSCode:51810644
+AntecedentFSCode:7837633
+EquationID:6
+NumberOfAntecedents:2
+conditionFSCode:30868550
+conditionFSCode:21703739
+Button Enability
+btnCreateAUniverse:False
+btnReset:True
+btnAddFS:False
+btn_unary_op:False
+btn_binary_op:False
+btn_clear_lb:False
+btn_clear_lb:True
+btnAddRule:True
+btnDeleteRule:True
+btnInference:True
+btn_final_inferencing:True
+Button Visibility
+btn_final_inferencing:True
+Combo Box Enability
+cb_FS:False
+cb_FS_monotonic:False
+cb_unaryOperator:False
+cb_binaryOperator:False
+Combo Box Visibility
+cb_FS:True
+cb_FS_monotonic:False
+List Box Enability
+lsbEuqations:True
+Group Box Visibility
+gb_Mamdani:False
+gb_ST:True
+TeeChart Visibility
+LineChart:False
+SurfaceChart:True
+LineChart.Chart.Legend:False
+SurfaceChart.Chart.Legend:False
+chartController1:True
+chartController2:False
+splitContainer3:450

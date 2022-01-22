@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\PhD\110-1\Soft Computing Methods and Applications\Homework 6\R09622009TEChangAss06Solution\R09622009TEChangAss06\bin\Debug\R09622009TEChangAss06.exe.config
+C:\Users\user\Desktop\PhD\110-1\Soft Computing Methods and Applications\Homework 6\R09622009TEChangAss06Solution\R09622009TEChangAss06\bin\Debug\R09622009TEChangAss06.exe
+C:\Users\user\Desktop\PhD\110-1\Soft Computing Methods and Applications\Homework 6\R09622009TEChangAss06Solution\R09622009TEChangAss06\bin\Debug\R09622009TEChangAss06.pdb
+C:\Users\user\Desktop\PhD\110-1\Soft Computing Methods and Applications\Homework 6\R09622009TEChangAss06Solution\R09622009TEChangAss06\obj\Debug\R09622009TEChangAss06.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PhD\110-1\Soft Computing Methods and Applications\Homework 6\R09622009TEChangAss06Solution\R09622009TEChangAss06\obj\Debug\R09622009TEChangAss06.MainForm.resources
+C:\Users\user\Desktop\PhD\110-1\Soft Computing Methods and Applications\Homework 6\R09622009TEChangAss06Solution\R09622009TEChangAss06\obj\Debug\R09622009TEChangAss06.Properties.Resources.resources
+C:\Users\user\Desktop\PhD\110-1\Soft Computing Methods and Applications\Homework 6\R09622009TEChangAss06Solution\R09622009TEChangAss06\obj\Debug\R09622009TEChangAss06.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PhD\110-1\Soft Computing Methods and Applications\Homework 6\R09622009TEChangAss06Solution\R09622009TEChangAss06\obj\Debug\R09622009TEChangAss06.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PhD\110-1\Soft Computing Methods and Applications\Homework 6\R09622009TEChangAss06Solution\R09622009TEChangAss06\obj\Debug\R09622009TEChangAss06.exe
+C:\Users\user\Desktop\PhD\110-1\Soft Computing Methods and Applications\Homework 6\R09622009TEChangAss06Solution\R09622009TEChangAss06\obj\Debug\R09622009TEChangAss06.pdb
+C:\Users\user\Desktop\PhD\110-1\Soft Computing Methods and Applications\Homework 6\R09622009TEChangAss06Solution\R09622009TEChangAss06\bin\Debug\TeeChart.dll
+C:\Users\user\Desktop\PhD\110-1\Soft Computing Methods and Applications\Homework 6\R09622009TEChangAss06Solution\R09622009TEChangAss06\bin\Debug\TeeChart.xml
+C:\Users\user\Desktop\PhD\110-1\Soft Computing Methods and Applications\Homework 6\R09622009TEChangAss06Solution\R09622009TEChangAss06\obj\Debug\R09622009TEChangAss06.csproj.CopyComplete
